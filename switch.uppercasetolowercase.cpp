@@ -1,4 +1,4 @@
-/ *upper case to lower case*/
+//upper case to lower case
 #include<stdio.h>
 main()
 {
